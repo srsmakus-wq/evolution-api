@@ -1,0 +1,14 @@
+{
+  "name": "evolution-api-yakuza",
+  "version": "1.0.0",
+  "description": "YAKUZA 999 WhatsApp Bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3"
+  }
+}
